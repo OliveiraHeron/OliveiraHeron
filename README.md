@@ -76,56 +76,6 @@ Computer Science Student | Software Development | Technology Enthusiast
 
 ---
 
-## 🚀 Featured Projects
-
-### 📚 Java Library Management System
-
-A Java-based library management system developed as an academic project, applying **Object-Oriented Programming, interfaces, abstract classes, encapsulation, controllers, views, and file persistence**.
-
-🔗 **Repository:**
-[Library Management System](https://github.com/OliveiraHeron/BibliotecaJava)
-
----
-
-### 🗺️ Logistics Graph & A* Algorithm
-
-A graph-based logistics project developed in C, implementing **graph structures and the A* pathfinding algorithm** to find optimized routes.
-
-🔗 **Repository:**
-[Graph Logistics](https://github.com/joaofrancop/projeto-grafos-logistica)
-
----
-
-### 🎮 RPG Web Application
-
-A medieval RPG project developed with **Python and Flask**, including character creation, classes, races, and attribute distribution.
-
-🔗 **Repository:**
-[RPG Project](https://github.com/OliveiraHeron/RPG-)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OliveiraHeron&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraHeron&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
-
-## 🎯 Currently Learning
-
-```text
-Software Development
-Backend Development
-Data Structures & Algorithms
-Artificial Intelligence
-Machine Learning
-Database Systems
-```
-
----
 
 ## 📈 My Goal
 
